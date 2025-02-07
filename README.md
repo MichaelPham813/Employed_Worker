@@ -30,3 +30,4 @@ need to spent.
 - Support more startups and small companies to encourage them to hire more employees
 
 # Visualization
+![Image](https://github.com/user-attachments/assets/04de1cdc-ba3b-4d4a-8b8e-0d818e407497)
